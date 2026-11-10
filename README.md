@@ -42,5 +42,3 @@ Development Tools
 ---
 
  *Building projects, learning every day, and creating something meaningful through code.*
-
-**— Joshua Catan**
