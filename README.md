@@ -61,7 +61,7 @@ I develop indie horror games under **mestStudios**, where I turn creative ideas 
 ### 📫 Connect With Me
 
 - GitHub: [@joshua-catan](https://github.com/joshua-catan)
-- Studio: [mestStudios]([https://github.com/joshua-catan](https://play.google.com/store/apps/developer?id=mestStudios))
+- Studio: [mestStudios](https://play.google.com/store/apps/developer?id=mestStudios)
 
 ---
 
