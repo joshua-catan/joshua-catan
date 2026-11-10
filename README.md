@@ -30,14 +30,10 @@ Development Tools
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
-### GitHub Statistics
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joshua-catan&show_icons=true&theme=dark) ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joshua-catan&layout=compact&theme=dark)
-
 ---
 
 - GitHub: [@joshua-catan](https://github.com/joshua-catan)
-- Studio: [mestStudios](https://play.google.com/store/apps/developer?id=mestStudios)
+- Games: [mestStudios](https://play.google.com/store/apps/developer?id=mestStudios)
 
 ---
 
