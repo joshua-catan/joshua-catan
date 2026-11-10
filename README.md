@@ -1,19 +1,15 @@
 # 👋 Hi, I'm Joshua Catan!
 
-### 🎮 Indie Game Developer | Web Developer | IT Student
-
-I'm an aspiring developer from the Philippines passionate about creating games, building web applications, and exploring software development.
-
-I develop indie horror games under **mestStudios**, where I turn creative ideas into playable experiences.
+### Indie Game Developer | Web Developer | IT Student
 
 ---
 
 ### 🚀 About Me
 
-- 🎮 Indie game developer at **mestStudios**
-- 💻 Currently learning React, JavaScript, and modern web development
-- 🎯 Interested in game engines, gameplay programming, and software development
-- 🌱 Always learning and improving my programming skills
+- Indie game developer at **mestStudios**
+- Currently learning React, JavaScript, and modern web development
+- Interested in game engines, gameplay programming, and software development
+- Always learning and improving my programming skills
 - 🇵🇭 Based in the Philippines
 
 ---
@@ -26,24 +22,13 @@ Programming Languages
 
 Frameworks & Game Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,blender,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=unity,blender,react,tailwind,vite,nodejs" />
 </p>
 
 Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
-
----
-
-### 🎮 Featured Projects
-
-| Project | Description | Technology |
-|---|---|---|
-| mestEngine | Custom game engine project | C++ |
-| Masterwork Music | Instrument store web application | React / Tailwind CSS |
-
----
 
 ### 📊 GitHub Statistics
 
@@ -56,6 +41,6 @@ Development Tools
 
 ---
 
-⭐ *Building projects, learning every day, and creating something meaningful through code.*
+ *Building projects, learning every day, and creating something meaningful through code.*
 
 **— Joshua Catan**
