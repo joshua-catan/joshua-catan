@@ -31,7 +31,7 @@ Frameworks & Game Development
 
 Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ---
