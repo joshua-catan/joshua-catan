@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - Indie game developer at **mestStudios**
 - Currently learning React, JavaScript, and modern web development
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css" />
@@ -30,7 +30,7 @@ Development Tools
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joshua-catan&show_icons=true&theme=dark) ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joshua-catan&layout=compact&theme=dark)
 
