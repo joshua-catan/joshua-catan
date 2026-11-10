@@ -19,19 +19,17 @@ I develop indie horror games under **mestStudios**, where I turn creative ideas 
 ---
 
 ### 🛠️ Technologies & Tools
-
+Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css" />
 </p>
 
 Frameworks & Game Development
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=unity,blender,react,tailwind,vite" />
 </p>
 
 Development Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
 </p>
@@ -49,9 +47,7 @@ Development Tools
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joshua-catan&show_icons=true&theme=dark)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joshua-catan&layout=compact&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joshua-catan&show_icons=true&theme=dark) ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joshua-catan&layout=compact&theme=dark)
 
 ---
 
