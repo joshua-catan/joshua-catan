@@ -51,8 +51,6 @@ Development Tools
 
 ---
 
-### 📫 Connect With Me
-
 - GitHub: [@joshua-catan](https://github.com/joshua-catan)
 - Studio: [mestStudios](https://play.google.com/store/apps/developer?id=mestStudios)
 
