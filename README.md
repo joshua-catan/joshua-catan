@@ -20,24 +20,21 @@ I develop indie horror games under **mestStudios**, where I turn creative ideas 
 
 ### 🛠️ Technologies & Tools
 
-**Programming Languages**
-- C#
-- C++
-- Java
-- JavaScript
-- HTML & CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,html,css" />
+</p>
 
-**Frameworks & Game Development**
-- Unity
-- Blender
-- React
-- Tailwind CSS
-- Vite
+Frameworks & Game Development
 
-**Tools**
-- Visual Studio Code
-- Visual Studio
-- Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,blender,react,tailwind,vite" />
+</p>
+
+Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
+</p>
 
 ---
 
